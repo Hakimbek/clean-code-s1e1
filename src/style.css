@@ -52,7 +52,7 @@
 }
 
 .input {
-  outline:none;
+  outline: none;
 }
 
 .button {
@@ -63,7 +63,7 @@
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
-  outline:none;
+  outline: none;
 }
 
 .button:hover {
